@@ -1,0 +1,31 @@
+Atividade 01 (ATIV-01)
+
+1. Explique, com suas palavras, o que é machine learning?
+  Machine Learning (ou Aprendizado de Máquina) é uma área da inteligência artificial que envolve treinar 
+  computadores para aprender a partir de dados e fazer previsões ou tomar decisões, O aprendizado de máquina 
+  pode ser usado em muitas coisas, como prever se uma pessoa vai gostar de um filme por exemplo.
+
+2. Explique o conceito de conjunto de treinamento, conjunto de validação e conjunto de teste em machine learning.
+  Conjunto de Treinamento: Esse é o conjunto de dados usado para treinar o modelo. Aqui, o algoritmo aprende padrões, relações e características dos dados.
+  Conjunto de Validação: Esse conjunto é usado para ajustar o modelo enquanto ele está sendo treinado. Ele ajuda a avaliar o desempenho do modelo durante o treinamento.
+  Conjunto de Teste: Esse é o conjunto final usado para testar o modelo depois que ele já foi treinado e avaliado.
+
+3. Explique como você lidaria com dados ausentes em um conjunto de dados de treinamento.
+  Para lidar com dados ausentes em um conjunto de treinamento, podemos: remover linhas ou colunas com muitos valores faltantes; preencher os valores com a média,
+  mediana ou moda, a escolha pode variar de acordo com os dados que faltam.
+
+4. O que é uma matriz de confusão e como ela é usada para avaliar o desempenho de um modelo preditivo?
+  A matriz de confusão oferece uma visão detalhada dos erros e acertos do modelo, ajudando a identificar onde ele está falhando, com o resultado de previsões divididos em
+    Verdadeiros Positivos, Verdadeiros Negativos, Falsos Positivos e Falsos Negativos
+  E de acordo com o desenpenho:
+    Acurácia, Precisão e Revocação
+
+5. Em quais áreas (tais como construção civil, agricultura, saúde, manufatura, entre outras) você acha mais interessante aplicar algoritmos de machine
+learning?
+  Na área de educação machine learning pode ser utilizado para personalizar o aprendizado de acordo com as necessidades de cada aluno, 
+  analisando seu desempenho e ajustando o conteúdo para melhorar sua compreensão.
+
+  
+    
+   
+
